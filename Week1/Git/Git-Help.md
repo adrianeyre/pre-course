@@ -15,3 +15,4 @@ git push –u <remote name> <branch> = Push staging area to Github
 git remote remove <repo name> = Remote remote link
 git pull <remote name> <branch> = Pull data from Github to local repo
 git clone <remote repo> = Clones GitHub repo to local computer
+
