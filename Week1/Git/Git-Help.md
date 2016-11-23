@@ -1,7 +1,9 @@
 # Git Help File
 
 git init = Initialise Git
+
 rm –rf .git = Removes the Git version control from the folder
+
 git add <filename> = Adds filename to the repo
 git add . = Add all files to the repo
 git commit –m “Commit Details” = Commit to staging area
