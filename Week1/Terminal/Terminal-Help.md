@@ -69,15 +69,15 @@ chmod <permission> <filename> - Changes permissions
   
 	+ = add
   
-  - = remove
+  	- = remove
   
-  w = write access
+  	w = write access
   
-  r = read access
+  	r = read access
   
-  x = execute access
+  	x = execute access
   
-  ie u+r = allow user read access
+  	ie u+r = allow user read access
 
 sudo <command> = Run command as root (Super User)
 
