@@ -16,7 +16,7 @@ git log = Display all commitments
 
 git checkout (commit hash) = Restore to previous commit
 
-git checkout -- (file) = To discard changes in working directory
+git checkout -- (file) = To revert file to previous commit
 
 git checkout master = Go back to the master branch
 
