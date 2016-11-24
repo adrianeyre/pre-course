@@ -2,24 +2,30 @@
 
 #### Installing a Gem
 
-  - gem install (gem name)
+  $ gem install (gem name)
 
 #### Using the Gem in Ruby Code
 
-  - require '(gem name)'
+````
+  require '(gem name)'
+````
 
 ## Bundlers
 
 #### Create a file called Gemfile and add the below text
 
-  - source 'https://rubygems.org'
+````
+  source 'https://rubygems.org'
   
-  - gem '(gem name)'
+  gem '(gem name)'
+````
   
 #### Execute the command below
 
-  - bundle install
+  $ bundle install
 
 #### Add the text to Ruby code
 
-  - require 'bundler/setup'
+````
+  require 'bundler/setup'
+````
