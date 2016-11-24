@@ -1,10 +1,10 @@
 # Ruby Gems
 
-## Installing a Gem
+#### Installing a Gem
 
   - gem install (gem name)
 
-## Using the Gem in Ruby Code
+#### Using the Gem in Ruby Code
 
   - require '(gem name)'
 
