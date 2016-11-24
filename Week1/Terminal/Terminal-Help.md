@@ -50,6 +50,14 @@ find (folder) -name (filename) -print = find files in all folders in current fol
 
 grep (word) (filename) = search for word in text file
 
+	-v display those lines that do NOT match
+	
+	-n precede each matching line with the line number
+	
+	-c print only the total count of matched lines 
+	
+	-i ignores case
+
 wc (filename) = File word count
 
 wc (filename) -l = Count lines
