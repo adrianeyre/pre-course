@@ -15,4 +15,5 @@ Repo to store all of my pre-course materials
 * [Shovel] (Week1/Ruby/Shovel.rb)
 * [Strings] (Week1/Ruby/Strings.rb)
 * [Symbols] (Week1/Ruby/Symbols.rb)
+
 ### [Gems] (Week1/Ruby/Gems.md)
