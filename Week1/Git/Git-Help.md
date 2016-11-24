@@ -18,19 +18,37 @@ git checkout (commit hash) = Restore to previous commit
 
 git checkout -- (file) = To revert file to previous commit
 
-git checkout master = Go back to the master branch
-
 git remote –v = Displays list of remote repos
 
 git remote add origin (origin) = Link local Git to Github
 
-git push –u (remote name) (branch) = Push staging area to Github
-
 git remote remove (repo name) = Remote remote link
+
+git push –u (remote name) (branch) = Push staging area to Github
 
 git pull (remote name) (branch) = Pull data from Github to local repo
 
+git reset (filename) = Remove file from staging area
+
 git clone (remote repo) = Clones GitHub repo to local computer
+
+git diff = Show difference between various pionts in project
+
+git diff HEAD = Show difference between current state of local project and most recent commit
+
+git diff --staged = Show recent staged changes
+
+### Branches
+
+git branch (new branch) = Create a new branch
+
+git branch = List all branches
+
+git checkout (branch) = Move to a different branch
+
+git checkout -b (branch) = Create a branch and move to it
+
+git checkout master = Go back to the master branch
 
 ### Stash local changes without commiting
 
