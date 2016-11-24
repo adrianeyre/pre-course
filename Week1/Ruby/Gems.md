@@ -2,7 +2,9 @@
 
 #### Installing a Gem
 
+````
   $ gem install (gem name)
+````
 
 #### Using the Gem in Ruby Code
 
@@ -22,7 +24,9 @@
   
 #### Execute the command below
 
+````
   $ bundle install
+````
 
 #### Add the text to Ruby code
 
