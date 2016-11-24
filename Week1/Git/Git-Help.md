@@ -32,3 +32,20 @@ git pull (remote name) (branch) = Pull data from Github to local repo
 
 git clone (remote repo) = Clones GitHub repo to local computer
 
+### Stash local changes without commiting
+
+Use git stash when you want to record the current state of the working directory and the index, but want to go back to a clean working directory. The command saves your local modifications away and reverts the working directory to match the HEAD commit.
+
+git stash list (options) = List the stashes that you currently have
+
+git stash show (stash) = Show the changes recorded
+
+git stash drop (stash) = Remove a single stashed state from the stash list
+
+git stash branch (branchname) (stash) = Creates and checks out a new branch named (branchname) starting from the commit at which the (stash) was originally created,
+
+git stash clear = Remove all the stashed states
+
+git stash create (message) = Create a stash
+
+git stash store -m "Commit Details"
