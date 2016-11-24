@@ -6,5 +6,5 @@ Repo to store all of my pre-course materials
 
 ### [Git Help] (Week1/Git/Git-Help.md)
 ### [Ruby] (Week1/Ruby)
-#### [Arrays] (Week1/Ruby/Arrays.rb)
+* [Arrays] (Week1/Ruby/Arrays.rb)
 
