@@ -29,9 +29,12 @@ mv (filename) (new location and filename) = Move file to new location
 cat (filename) = Concatenate file – Displays file content
 
 cat > (filename) = Create text file
-	ctr+c = quit
+
+cat >> (filename) = append to text file
   
 cat (filename) (filename) > (combined filename) = combine two text files
+
+(command1) | (command2) = Pipe the output of command1 to the input of command2
 
 less (filename) = display large text files allowing you to scroll
 	q = quit
