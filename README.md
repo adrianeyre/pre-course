@@ -13,6 +13,7 @@ Repo to store all of my pre-course materials
 * [Hash] (Week1/Ruby/Hashes.rb)
 * [Lambdas] (Week1/Ruby/Lambdas.rb)
 * [Methods] (Week1/Ruby/Methods.rb)
+* [Procs] (Week1/Ruby/Procs.rb)
 * [Recursion] (Week1/Ruby/Recursion.rb)
 * [Shovel] (Week1/Ruby/Shovel.rb)
 * [Strings] (Week1/Ruby/Strings.rb)
