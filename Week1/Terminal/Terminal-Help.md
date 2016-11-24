@@ -67,6 +67,8 @@ wc (filename) -l = Count lines
 
 which (file) = Displays location of an application
 
+history = Display command history
+
 ## Permissions
 
 whoami = Display current user
