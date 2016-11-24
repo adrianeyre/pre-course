@@ -8,6 +8,12 @@ git add (filename) = Adds filename to the repo /n
 
 git add . = Add all files to the repo
 
+git rm (filename) = Remove file from repo
+
+git rm -r (foldername) = Remove folder and files content from repo
+
+git rm '*.txt' = Remove all text files from repo
+
 git commit –m “Commit Details” = Commit to staging area
 
 git status = Display status of repo
@@ -49,6 +55,12 @@ git checkout (branch) = Move to a different branch
 git checkout -b (branch) = Create a branch and move to it
 
 git checkout master = Go back to the master branch
+
+git merge (new branch) = Merge new branch to the master branch
+
+git branch -d (branch) = Delete branch
+
+git branch -D (branch) = Delete branch even if it hasn't been mereged
 
 ### Stash local changes without commiting
 
