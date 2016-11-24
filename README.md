@@ -4,6 +4,7 @@ Repo to store all of my pre-course materials
 
 ## Week 1
 
+### [Command Line Help] (Week1/Terminal/Terminal-Help.md)
 ### [Git Help] (Week1/Git/Git-Help.md)
 ### [Ruby] (Week1/Ruby)
 * [Arrays] (Week1/Ruby/Arrays.rb)
