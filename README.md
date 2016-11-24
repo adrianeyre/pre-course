@@ -10,6 +10,7 @@ Repo to store all of my pre-course materials
 * [Arrays] (Week1/Ruby/Arrays.rb)
 * [Blocks] (Week1/Ruby/Blocks.rb)
 * [Control-Flow] (Week1/Ruby/Control-Flow.rb)
+* [Hash] (Week1/Ruby/Hashes.rb)
 * [Lambdas] (Week1/Ruby/Lambdas.rb)
 * [Methods] (Week1/Ruby/Methods.rb)
 * [Recursion] (Week1/Ruby/Recursion.rb)
