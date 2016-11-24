@@ -18,3 +18,5 @@ Repo to store all of my pre-course materials
 * [Symbols] (Week1/Ruby/Symbols.rb)
 
 ### [Gems] (Week1/Ruby/Gems.md)
+
+## Week 2
