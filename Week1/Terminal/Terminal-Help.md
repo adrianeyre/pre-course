@@ -121,6 +121,7 @@
 ## VIM
 
 `vi (filename)` = Create a file using VIM
+	
 	i = Insert text before cursor
   
 	o = Open a new line after the current one
