@@ -1,6 +1,6 @@
 # Git Help File
 
-git init = Initialise Git
+`git init` = Initialise Git
 
 rm –rf .git = Removes the Git version control from the folder
 
