@@ -20,6 +20,8 @@ git status = Display status of repo
 
 git log = Display all commitments
 
+git log --pretty=oneline = Show checkouts on one line
+
 git checkout (commit hash) = Restore to previous commit
 
 git checkout -- (file) = To revert file to previous commit
