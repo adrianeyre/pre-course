@@ -2,7 +2,9 @@
 
 Repo to store all of my pre-course materials
 
-## Week 1
+[Week 1](#Week1) | [Week 2](#Week2) | [Week 2](#Week3) | [Week 4](#Week4)
+
+## <a name="Week1">Week 1</a>
 
 ### [Command Line Help] (Week1/Terminal/Terminal-Help.md)
 ### [Git Help] (Week1/Git/Git-Help.md)
@@ -21,4 +23,8 @@ Repo to store all of my pre-course materials
 
 ### [Gems] (Week1/Ruby/Gems.md)
 
-## Week 2
+## <a name="Week2">Week 2</a>
+
+## <a name="Week2">Week 3</a>
+
+## <a name="Week2">Week 4</a>
