@@ -27,28 +27,28 @@ Repo to store all of my pre-course materials
 
 ### Ruby
 
-[Chris Pine’s Learn to Program](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view) <br />
-* [chapter 01 - Numbers] (https://pine.fm/LearnToProgram/chap_01.html) <br />
+#### [Chris Pine’s Learn to Program](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view) <br />
+* [Chapter 01 - Numbers] (https://pine.fm/LearnToProgram/chap_01.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap01/ex1.rb) <br />
-* [chapter 02 - Letters] (https://pine.fm/LearnToProgram/chap_02.html) <br />
+* [Chapter 02 - Letters] (https://pine.fm/LearnToProgram/chap_02.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap02/ex1.rb) <br />
-* [chapter 03 - Variables and Assignments] (https://pine.fm/LearnToProgram/chap_03.html) <br />
+* [Chapter 03 - Variables and Assignments] (https://pine.fm/LearnToProgram/chap_03.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap03/ex1.rb) <br />
-* [chapter 04 - Mixing it up] (https://pine.fm/LearnToProgram/chap_04.html) <br />
+* [Chapter 04 - Mixing it up] (https://pine.fm/LearnToProgram/chap_04.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap04/ex1.rb) <br />
-* [chapter 05 - More about methods] (https://pine.fm/LearnToProgram/chap_05.html) <br />
+* [Chapter 05 - More about methods] (https://pine.fm/LearnToProgram/chap_05.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap05/ex1.rb) <br />
-* [chapter 06 - Flow control] (https://pine.fm/LearnToProgram/chap_06.html) <br />
+* [Chapter 06 - Flow control] (https://pine.fm/LearnToProgram/chap_06.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap06/ex1.rb) <br />
-* [chapter 07 - Arrays and Integers] (https://pine.fm/LearnToProgram/chap_07.html) <br />
+* [Chapter 07 - Arrays and Integers] (https://pine.fm/LearnToProgram/chap_07.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap07/ex1.rb) <br />
-* [chapter 08 - Writing your own methods] (https://pine.fm/LearnToProgram/chap_08.html) <br />
+* [Chapter 08 - Writing your own methods] (https://pine.fm/LearnToProgram/chap_08.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap08/ex1.rb) <br />
-* [chapter 09 - Classes] (https://pine.fm/LearnToProgram/chap_09.html) <br />
+* [Chapter 09 - Classes] (https://pine.fm/LearnToProgram/chap_09.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap09/ex1.rb) <br />
-* [chapter 10 - Blocks and Procs] (https://pine.fm/LearnToProgram/chap_10.html) <br />
+* [Chapter 10 - Blocks and Procs] (https://pine.fm/LearnToProgram/chap_10.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap10/ex1.rb) <br />
-* [chapter 11 - Beyond this tutorial] (https://pine.fm/LearnToProgram/chap_11.html) <br />
+* [Chapter 11 - Beyond this tutorial] (https://pine.fm/LearnToProgram/chap_11.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap11/ex1.rb) <br />
 
 ## <a name="Week2">Week 3</a>
