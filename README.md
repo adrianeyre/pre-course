@@ -54,6 +54,26 @@ Repo to store all of my pre-course materials
 #### [Josh Cheek's Ruby Kickstart] (https://github.com/JoshCheek/ruby-kickstart)
 * [Chapter 01] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session1/challenge) <br />
 &nbsp;&nbsp;* [Exercise 1 - Arithmetic] (Week2/ruby-kickstart/chap01/ex1.rb) <br />
+&nbsp;&nbsp;* [Exercise 2 - Arithmetic] (Week2/ruby-kickstart/chap01/ex2.rb) <br />
+&nbsp;&nbsp;* [Exercise 3 - Simple Logic] (Week2/ruby-kickstart/chap01/ex3.rb) <br />
+&nbsp;&nbsp;* [Exercise 4 - Logic] (Week2/ruby-kickstart/chap01/ex4.rb) <br />
+&nbsp;&nbsp;* [Exercise 5 - String] (Week2/ruby-kickstart/chap01/ex5.rb) <br />
+&nbsp;&nbsp;* [Exercise 6 - String] (Week2/ruby-kickstart/chap01/ex6.rb) <br />
+&nbsp;&nbsp;* [Exercise 7 - String] (Week2/ruby-kickstart/chap01/ex7.rb) <br />
+* [Chapter 02] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session2/challenge) <br />
+&nbsp;&nbsp;* [Exercise 1 - Input Output] (Week2/ruby-kickstart/chap02/ex1.rb) <br />
+&nbsp;&nbsp;* [Exercise 2 - Input Output Control] (Week2/ruby-kickstart/chap02/ex2.rb) <br />
+&nbsp;&nbsp;* [Exercise 3 - Array] (Week2/ruby-kickstart/chap02/ex3.rb) <br />
+&nbsp;&nbsp;* [Exercise 4 - Array] (Week2/ruby-kickstart/chap02/ex4.rb) <br />
+&nbsp;&nbsp;* [Exercise 5 - Array] (Week2/ruby-kickstart/chap02/ex5.rb) <br />
+&nbsp;&nbsp;* [Exercise 6 - Array] (Week2/ruby-kickstart/chap02/ex6.rb) <br />
+&nbsp;&nbsp;* [Exercise 7 - Array] (Week2/ruby-kickstart/chap02/ex7.rb) <br />
+&nbsp;&nbsp;* [Exercise 8 - Array] (Week2/ruby-kickstart/chap02/ex8.rb) <br />
+&nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] (Week2/ruby-kickstart/chap02/ex9.rb) <br />
+&nbsp;&nbsp;* [Exercise 10 - Classes] (Week2/ruby-kickstart/chap02/ex10.rb) <br />
+&nbsp;&nbsp;* [Exercise 11 - Classes] (Week2/ruby-kickstart/chap02/ex11.rb) <br />
+&nbsp;&nbsp;* [Exercise 12 - Classes] (Week2/ruby-kickstart/chap02/ex12.rb) <br />
+&nbsp;&nbsp;* [Exercise 13 - Classes Iterating Sorting] (Week2/ruby-kickstart/chap02/ex13.rb) <br />
 
 ## <a name="Week2">Week 3</a>
 
