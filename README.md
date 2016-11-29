@@ -26,15 +26,15 @@ Repo to store all of my pre-course materials
 ## <a name="Week2">Week 2</a>
 
 ### [Ruby] (Week2/Ruby)
-* [Strings] (Week1/Ruby/Strings.rb)
-* [Arrays] (Week1/Ruby/Arrays.rb)
-* [Hashes] (Week1/Ruby/Hashes.rb)
-* [Regular Expressions] (Week1/Ruby/Regular_Expressions.rb)
-* [Logic and Control] (Week1/Ruby/Logic_and_Control.rb)
-* [Reflection Introspection] (Week1/Ruby/Reflection_Introspection.rb)
-* [ERB Embedded] (Week1/Ruby/ERB_Embedded.rb)
-* [Ruby GEMS] (Week1/Ruby/Ruby_Gems.rb)
-* [Sinatra] (Week1/Ruby/Sinatra.rb)
+* [Strings] (Week2/Ruby/Strings.rb)
+* [Arrays] (Week2/Ruby/Arrays.rb)
+* [Hashes] (Week2/Ruby/Hashes.rb)
+* [Regular Expressions] (Week2/Ruby/Regular_Expressions.rb)
+* [Logic and Control] (Week2/Ruby/Logic_and_Control.rb)
+* [Reflection Introspection] (Week2/Ruby/Reflection_Introspection.rb)
+* [ERB Embedded] (Week2/Ruby/ERB_Embedded.rb)
+* [Ruby GEMS] (Week2/Ruby/Ruby_Gems.rb)
+* [Sinatra] (Week2/Ruby/Sinatra.rb)
 
 #### [Chris Pine’s Learn to Program](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view) <br />
 * [Chapter 01 - Numbers] (https://pine.fm/LearnToProgram/chap_01.html) <br />
