@@ -51,6 +51,10 @@ Repo to store all of my pre-course materials
 * [Chapter 11 - Beyond this tutorial] (https://pine.fm/LearnToProgram/chap_11.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap11/ex1.rb) <br />
 
+#### [Josh Cheek's Ruby Kickstart] (https://github.com/JoshCheek/ruby-kickstart)
+* [Chapter 01] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session1/challenge) <br />
+&nbsp;&nbsp;* [Exercise 1 - Arithmetic] (Week2/ruby-kickstart/chap01/ex1.rb) <br />
+
 ## <a name="Week2">Week 3</a>
 
 ## <a name="Week2">Week 4</a>
