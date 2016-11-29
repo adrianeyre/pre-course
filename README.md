@@ -32,7 +32,6 @@ Repo to store all of my pre-course materials
 * [Regular Expressions] (Week1/Ruby/Regular_Expressions.rb)
 * [Logic and Control] (Week1/Ruby/Logic_and_Control.rb)
 * [Reflection Introspection] (Week1/Ruby/Reflection_Introspection.rb)
-
 * [ERB Embedded] (Week1/Ruby/ERB_Embedded.rb)
 * [Ruby GEMS] (Week1/Ruby/Ruby_Gems.rb)
 * [Sinatra] (Week1/Ruby/Sinatra.rb)
