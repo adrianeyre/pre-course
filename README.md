@@ -75,14 +75,32 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise 3 - Array] (Week2/ruby-kickstart/chap02/ex3.rb) <br />
 &nbsp;&nbsp;* [Exercise 4 - Array] (Week2/ruby-kickstart/chap02/ex4.rb) <br />
 &nbsp;&nbsp;* [Exercise 5 - Array] (Week2/ruby-kickstart/chap02/ex5.rb) <br />
-&nbsp;&nbsp;* [Exercise 6 - Array] (Week2/ruby-kickstart/chap02/ex6.rb) <br />
+&nbsp;&nbsp;* [Exercise 6 - Array] <br />
 &nbsp;&nbsp;* [Exercise 7 - Array] (Week2/ruby-kickstart/chap02/ex7.rb) <br />
 &nbsp;&nbsp;* [Exercise 8 - Array] (Week2/ruby-kickstart/chap02/ex8.rb) <br />
-&nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] (Week2/ruby-kickstart/chap02/ex9.rb) <br />
+&nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] <br />
 &nbsp;&nbsp;* [Exercise 10 - Classes] (Week2/ruby-kickstart/chap02/ex10.rb) <br />
-&nbsp;&nbsp;* [Exercise 11 - Classes] (Week2/ruby-kickstart/chap02/ex11.rb) <br />
-&nbsp;&nbsp;* [Exercise 12 - Classes] (Week2/ruby-kickstart/chap02/ex12.rb) <br />
+&nbsp;&nbsp;* [Exercise 11 - Classes] <br />
+&nbsp;&nbsp;* [Exercise 12 - Classes] <br />
 &nbsp;&nbsp;* [Exercise 13 - Classes Iterating Sorting] (Week2/ruby-kickstart/chap02/ex13.rb) <br />
+* [Chapter 03] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session3/challenge) <br />
+&nbsp;&nbsp;* [Exercise 1 - Blocks] (Week2/ruby-kickstart/chap03/ex1.rb) <br />
+&nbsp;&nbsp;* [Exercise 2 - Hashes] (Week2/ruby-kickstart/chap03/ex2.rb) <br />
+&nbsp;&nbsp;* [Exercise 3 - Hashes] (Week2/ruby-kickstart/chap03/ex3.rb) <br />
+&nbsp;&nbsp;* [Exercise 4 - Hashes] (Week2/ruby-kickstart/chap03/ex4.rb) <br />
+&nbsp;&nbsp;* [Exercise 5 - Blocks] <br />
+&nbsp;&nbsp;* [Exercise 6 - Arguments] <br />
+&nbsp;&nbsp;* [Exercise 7 - Hashes] <br />
+&nbsp;&nbsp;* [Exercise 8 - Blocks] <br />
+&nbsp;&nbsp;* [Exercise 9 - Hashes] (Week2/ruby-kickstart/chap03/ex9.rb) <br />
+&nbsp;&nbsp;* [Exercise 10 - Hashes] <br />
+&nbsp;&nbsp;* [Exercise 11 - Blocks or Procs] <br />
+&nbsp;&nbsp;* [Exercise 12 - Blocks] <br />
+&nbsp;&nbsp;* [Exercise 13 - Procs] <br />
+&nbsp;&nbsp;* [Exercise 14 - Varibles Arguments and Hashes] <br />
+&nbsp;&nbsp;* [Exercise 15 - Hashes] <br />
+&nbsp;&nbsp;* [Exercise 16 - Hashes] <br />
+&nbsp;&nbsp;* [Exercise 17 - Hashes] <br />
 
 ## <a name="Week2">Week 3</a>
 
