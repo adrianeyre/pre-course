@@ -75,13 +75,13 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise 3 - Array] (Week2/ruby-kickstart/chap02/ex3.rb) <br />
 &nbsp;&nbsp;* [Exercise 4 - Array] (Week2/ruby-kickstart/chap02/ex4.rb) <br />
 &nbsp;&nbsp;* [Exercise 5 - Array] (Week2/ruby-kickstart/chap02/ex5.rb) <br />
-&nbsp;&nbsp;* [Exercise 6 - Array] <br />
+&nbsp;&nbsp;* [Exercise 6 - Array] (Week2/ruby-kickstart/chap02/ex6.rb)<br />
 &nbsp;&nbsp;* [Exercise 7 - Array] (Week2/ruby-kickstart/chap02/ex7.rb) <br />
 &nbsp;&nbsp;* [Exercise 8 - Array] (Week2/ruby-kickstart/chap02/ex8.rb) <br />
-&nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] <br />
+&nbsp;&nbsp;* [Exercise 9 - Input Output Logic String] (Week2/ruby-kickstart/chap02/ex9.rb)<br />
 &nbsp;&nbsp;* [Exercise 10 - Classes] (Week2/ruby-kickstart/chap02/ex10.rb) <br />
-&nbsp;&nbsp;* [Exercise 11 - Classes] <br />
-&nbsp;&nbsp;* [Exercise 12 - Classes] <br />
+&nbsp;&nbsp;* [Exercise 11 - Classes] (Week2/ruby-kickstart/chap02/ex11.rb)<br />
+&nbsp;&nbsp;* [Exercise 12 - Classes] (Week2/ruby-kickstart/chap02/ex12.rb)<br />
 &nbsp;&nbsp;* [Exercise 13 - Classes Iterating Sorting] (Week2/ruby-kickstart/chap02/ex13.rb) <br />
 * [Chapter 03] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session3/challenge)  - [Chapter Notes] (Week2/ruby-kickstart/chap03/notes) <br />
 &nbsp;&nbsp;* [Exercise 1 - Blocks] (Week2/ruby-kickstart/chap03/ex1.rb) <br />
