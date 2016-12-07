@@ -145,9 +145,9 @@ Repo to store all of my pre-course materials
 * [Exercise 39: Dictionaries, Oh Lovely Dictionaries]
 * [Exercise 40: Modules, Classes, And Objects]
 
-## <a name="Week2">Week 3</a> ##
+## <a name="Week3">Week 3</a> ##
 ### Student Directory ###
 &nbsp;&nbsp;* [Instruction Files] (https://github.com/makersacademy/student-directory)<br />
 &nbsp;&nbsp;* [My Solution] (https://github.com/adrianeyre/student-directory)<br />
 
-## <a name="Week2">Week 4</a>
+## <a name="Week4">Week 4</a>
