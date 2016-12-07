@@ -137,13 +137,13 @@ Repo to store all of my pre-course materials
 * [Exercise 31: Making Decisions] (Week2/lrthw/ex31.rb)
 * [Exercise 32: Loops And Arrays] (Week2/lrthw/ex32.rb)
 * [Exercise 33: While Loops] (Week2/lrthw/ex33.rb)
-* [Exercise 34: Accessing Elements Of Arrays]
-* [Exercise 35: Branches and Functions]
-* [Exercise 36: Designing and Debugging]
-* [Exercise 37: Symbol Review]
-* [Exercise 38: Doing Things To Arrays]
-* [Exercise 39: Dictionaries, Oh Lovely Dictionaries]
-* [Exercise 40: Modules, Classes, And Objects]
+* [Exercise 34: Accessing Elements Of Arrays] (Week2/lrthw/ex34.rb)
+* [Exercise 35: Branches and Functions] (Week2/lrthw/ex35.rb)
+* [Exercise 36: Designing and Debugging] (Week2/lrthw/ex36.rb)
+* [Exercise 37: Symbol Review] (Week2/lrthw/ex37.rb)
+* [Exercise 38: Doing Things To Arrays] (Week2/lrthw/ex38.rb)
+* [Exercise 39: Dictionaries, Oh Lovely Dictionaries] (Week2/lrthw/ex39.rb)
+* [Exercise 40: Modules, Classes, And Objects] (Week2/lrthw/ex40.rb)
 
 ## <a name="Week3">Week 3</a> ##
 ### Student Directory ###
