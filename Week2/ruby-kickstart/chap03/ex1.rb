@@ -3,12 +3,6 @@
 #
 # reverse_map(1, 2, 3) { |i| i * 2 }      # => [6, 4, 2]
 
-# My Solution
 def reverse_map(*arr, &block)
 	arr.reverse!.map(&block)
-end
-
-# Suggested Solution
-def reverse_map(*args, &block)
-  args.reverse.map(&block)
 end

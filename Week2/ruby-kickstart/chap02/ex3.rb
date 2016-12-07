@@ -5,7 +5,6 @@
 # "abcdefg".every_other_char  # => "aceg"
 # "".every_other_char         # => ""
 
-# My Solution
 class String
   def every_other_char
     newstring = ""
@@ -13,16 +12,5 @@ class String
       newstring += self[index] if index.even?
     end
     newstring
-  end
-end
-
-# Suggested Solution
-class String
-  def every_other_char
-    to_return = ''
-    each_char.with_index do |char, index|
-      to_return << char if index.even?
-    end
-    to_return
   end
 end

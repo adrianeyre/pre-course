@@ -14,12 +14,6 @@
 #
 # mod_three [0,1,2,3,4,5,6,7] # => [1, 2, 1, 2, 1]
 
-# My Solution
 def mod_three(arr)
   arr.select {|num| num % 3 != 0}.map { |num| num % 3 }
-end
-
-# Suggested Solution
-def mod_three(numbers)
-  numbers.select { |number| number % 3 != 0 }.map { |number| number % 3 }
 end

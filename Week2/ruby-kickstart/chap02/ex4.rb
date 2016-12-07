@@ -8,12 +8,6 @@
 
 # This time you will have to define the method, it's called: get_squares
 
-# My Solution
 def get_squares(arr)
   arr.select {|num| arr.include? num*num}.sort
-end
-
-# Suggested Solution
-def get_squares(numbers)
-  numbers.select { |n| numbers.include? n*n }.sort
 end

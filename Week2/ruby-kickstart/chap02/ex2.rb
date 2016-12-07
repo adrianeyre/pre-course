@@ -18,7 +18,6 @@
 # remember you can try your program out with              $ ruby 2_input_output_control.rb
 # and when you think it is correct, you can test it with  $ rake 2:2
 
-# My Solution
 def hi_hi_goodbye
   num = ""
   while num != "bye"
@@ -31,20 +30,6 @@ def hi_hi_goodbye
   puts "goodbye"
 end
 
-# Suggested Solution
-def prompt
-  puts 'Enter a number or bye'
-end
-
-def hi_hi_goodbye
-  prompt
-  while (line = gets) && (line !~ /bye/) # first is an assignment statement that returns a line or nil, and is thus boolean
-    line.to_i.times { print 'hi ' }
-    puts
-    prompt
-  end
-  puts "Goodbye!"
-end
 
 
 # This will just invoke the method if you run this program directly
