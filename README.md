@@ -36,7 +36,7 @@ Repo to store all of my pre-course materials
 * [Ruby GEMS] (Week2/Ruby/Ruby_Gems.rb)
 * [Sinatra] (Week2/Ruby/Sinatra.rb)
 
-#### [Chris Pine’s Learn to Program](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view) <br />
+### [Chris Pine’s Learn to Program](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view) <br />
 * [Chapter 01 - Numbers] (https://pine.fm/LearnToProgram/chap_01.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap01/ex1.rb) <br />
 * [Chapter 02 - Letters] (https://pine.fm/LearnToProgram/chap_02.html) <br />
@@ -60,7 +60,7 @@ Repo to store all of my pre-course materials
 * [Chapter 11 - Beyond this tutorial] (https://pine.fm/LearnToProgram/chap_11.html) <br />
 &nbsp;&nbsp;* [Exercise] (Week2/learn-to-program/chap11/ex1.rb) <br />
 
-#### [Josh Cheek's Ruby Kickstart] (https://github.com/JoshCheek/ruby-kickstart)
+### [Josh Cheek's Ruby Kickstart] (https://github.com/JoshCheek/ruby-kickstart)
 * [Chapter 01] (https://github.com/JoshCheek/ruby-kickstart/tree/master/session1/challenge) - [Chapter Notes] (Week2/ruby-kickstart/chap01/notes) <br />
 &nbsp;&nbsp;* [Exercise 1 - Arithmetic] (Week2/ruby-kickstart/chap01/ex1.rb) <br />
 &nbsp;&nbsp;* [Exercise 2 - Arithmetic] (Week2/ruby-kickstart/chap01/ex2.rb) <br />
@@ -102,8 +102,8 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise 16 - Hashes] (Week2/ruby-kickstart/chap03/ex16.rb)<br />
 &nbsp;&nbsp;* [Exercise 17 - Hashes] (Week2/ruby-kickstart/chap03/ex17.rb)<br />
 
-#### [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/)
-## Exercises ###
+### [Learn Ruby the Hard Way] (https://learnrubythehardway.org/book/)
+#### Exercises #####
 * [Exercise 1: A Good First Program] (Week2/lrthw/ex01.rb)
 * [Exercise 2: Comments And Pound Characters] (Week2/lrthw/ex02.rb)
 * [Exercise 3: Numbers And Math] (Week2/lrthw/ex03.rb)
