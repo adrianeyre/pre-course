@@ -147,7 +147,7 @@ Repo to store all of my pre-course materials
 
 ## <a name="Week2">Week 3</a> ##
 ### Student Directory ###
-&nbsp;&nbsp;* [Instruction Files] (https://github.com/makersacademy/student-directory)
-&nbsp;&nbsp;* [My Solution] (student-directory)
+&nbsp;&nbsp;* [Instruction Files] (https://github.com/makersacademy/student-directory)<br />
+&nbsp;&nbsp;* [My Solution] (student-directory)<br />
 
 ## <a name="Week2">Week 4</a>
