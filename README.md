@@ -151,3 +151,7 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [My Solution] (https://github.com/adrianeyre/student-directory)<br />
 
 ## <a name="Week4">Week 4</a>
+* [FizzBuzz] (https://github.com/adrianeyre/fizzbuzz)<br />
+* [CodeWars] (https://github.com/adrianeyre/codewars)<br />
+* [Curriculum Vitae] (https://github.com/adrianeyre/CV<br />
+
