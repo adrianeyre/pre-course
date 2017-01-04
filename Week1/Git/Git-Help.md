@@ -38,13 +38,15 @@
 
 `git reset (filename)` = Remove file from staging area
 
+`git reset --hard` = Remove local updates so that you can pull from GitHub
+
 `git clone (remote repo)` = Clones GitHub repo to local computer
 
 `git diff` = Show difference between various pionts in project
 
 `git diff HEAD` = Show difference between current state of local project and most recent commit
 
-`git diff` --staged = Show recent staged changes
+`git diff --staged` = Show recent staged changes
 
 ### Branches
 
