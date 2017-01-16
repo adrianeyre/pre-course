@@ -24,7 +24,7 @@ require '(gem name)'
 ````
 source 'https://rubygems.org'
   
-  gem '(gem name)'
+gem '(gem name)'
 ````
   
 #### Execute the command below
