@@ -1,5 +1,10 @@
 # Ruby Gems
 
+#### Create a new GemFile
+```
+$ bundle init
+```
+
 #### Installing a Gem
 
 ````
