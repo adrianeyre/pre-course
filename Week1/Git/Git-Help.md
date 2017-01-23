@@ -36,7 +36,7 @@
 
 `git pull (remote name) (branch)` = Pull data from Github to local repo
 
-'git pull (remote name) (branch) --allow-unrelated-histories' = When error of unrelated histories
+`git pull (remote name) (branch) --allow-unrelated-histories` = When error of unrelated histories
 
 `git reset (filename)` = Remove file from staging area
 
