@@ -61,7 +61,7 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise](Week2/learn-to-program/chap11/ex1.rb) <br />
 
 ### [Josh Cheek's Ruby Kickstart](https://github.com/JoshCheek/ruby-kickstart)
-* [Chapter 01](https://github.com/JoshCheek/ruby-kickstart/tree/master/session1/challenge) - [Chapter Notes] (Week2/ruby-kickstart/chap01/notes) <br />
+* [Chapter 01](https://github.com/JoshCheek/ruby-kickstart/tree/master/session1/challenge) - [Chapter Notes](Week2/ruby-kickstart/chap01/notes) <br />
 &nbsp;&nbsp;* [Exercise 1 - Arithmetic](Week2/ruby-kickstart/chap01/ex1.rb) <br />
 &nbsp;&nbsp;* [Exercise 2 - Arithmetic](Week2/ruby-kickstart/chap01/ex2.rb) <br />
 &nbsp;&nbsp;* [Exercise 3 - Simple Logic](Week2/ruby-kickstart/chap01/ex3.rb) <br />
@@ -69,7 +69,7 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise 5 - String](Week2/ruby-kickstart/chap01/ex5.rb) <br />
 &nbsp;&nbsp;* [Exercise 6 - String](Week2/ruby-kickstart/chap01/ex6.rb) <br />
 &nbsp;&nbsp;* [Exercise 7 - String](Week2/ruby-kickstart/chap01/ex7.rb) <br />
-* [Chapter 02](https://github.com/JoshCheek/ruby-kickstart/tree/master/session2/challenge) - [Chapter Notes] (Week2/ruby-kickstart/chap02/notes) <br />
+* [Chapter 02](https://github.com/JoshCheek/ruby-kickstart/tree/master/session2/challenge) - [Chapter Notes](Week2/ruby-kickstart/chap02/notes) <br />
 &nbsp;&nbsp;* [Exercise 1 - Input Output](Week2/ruby-kickstart/chap02/ex1.rb) <br />
 &nbsp;&nbsp;* [Exercise 2 - Input Output Control](Week2/ruby-kickstart/chap02/ex2.rb) <br />
 &nbsp;&nbsp;* [Exercise 3 - Array](Week2/ruby-kickstart/chap02/ex3.rb) <br />
@@ -83,7 +83,7 @@ Repo to store all of my pre-course materials
 &nbsp;&nbsp;* [Exercise 11 - Classes](Week2/ruby-kickstart/chap02/ex11.rb)<br />
 &nbsp;&nbsp;* [Exercise 12 - Classes](Week2/ruby-kickstart/chap02/ex12.rb)<br />
 &nbsp;&nbsp;* [Exercise 13 - Classes Iterating Sorting](Week2/ruby-kickstart/chap02/ex13.rb) <br />
-* [Chapter 03](https://github.com/JoshCheek/ruby-kickstart/tree/master/session3/challenge)  - [Chapter Notes] (Week2/ruby-kickstart/chap03/notes) <br />
+* [Chapter 03](https://github.com/JoshCheek/ruby-kickstart/tree/master/session3/challenge)  - [Chapter Notes](Week2/ruby-kickstart/chap03/notes) <br />
 &nbsp;&nbsp;* [Exercise 1 - Blocks](Week2/ruby-kickstart/chap03/ex1.rb) <br />
 &nbsp;&nbsp;* [Exercise 2 - Hashes](Week2/ruby-kickstart/chap03/ex2.rb) <br />
 &nbsp;&nbsp;* [Exercise 3 - Hashes](Week2/ruby-kickstart/chap03/ex3.rb) <br />
